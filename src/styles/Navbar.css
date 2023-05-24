@@ -1,0 +1,33 @@
+.navbar  li{list-style:none;margin-left:20px;}
+.navbar  ul{display:flex;padding-top:5px;
+}
+
+.navbar{
+    display: flex;
+    padding-left:40px;
+
+     margin-top:40px;
+    padding-right:40px;
+    justify-content:space-between;
+    align-items:center;
+    background:white;
+    width:90%;
+    margin-right:5%;
+     margin-left:5%;
+     height:70px;
+     border-top-left-radius:30px;
+     border-top-right-radius:30px;
+}
+.bookbtn{
+   
+    height:30px;
+     border-radius:30px;
+     color:white;
+     background:teal;
+     margin-left:20px; margin-right:40px;
+     padding:7px 15px;
+     border:none;
+}
+.navlinks{display:flex;
+}
+li{cursor:pointer;}

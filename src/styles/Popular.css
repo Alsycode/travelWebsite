@@ -1,0 +1,53 @@
+.popular {
+  
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+   width:90%;
+    margin-right:5%;
+     margin-left:5%;
+ background-size:cover;
+ background-position:center;
+}
+.popularTitle{ padding-top:100px;
+    font-family:cursive;
+    font-size:60px;
+    margin-bottom:70px;text-align:center;
+}
+.travelList{
+
+    display:flex;
+flex-wrap:wrap;
+ width:90%;
+  margin:auto;
+    text-align:center;
+    justify-content:space-around;
+}
+.travelItem{
+ width:400px;
+    
+    border-radius:30px;
+     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    margin-right:20px;
+    background:white;
+  text-align:center;
+    margin-bottom:50px;
+    padding-bottom:15px;
+}
+.travelItem div{
+    height:300px;
+    border-top-right-radius:30px;
+     border-top-left-radius:30px;
+      background-position: center;
+      background-size:cover;
+}
+.travelItem p,.travelItem h1{
+    padding-left:20px;
+      padding-right:20px;
+    padding-top:20px;
+}
+.travelItem p{
+    margin-top:-10px;
+}

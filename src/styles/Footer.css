@@ -1,0 +1,28 @@
+.footer {
+  
+  height: 200px;
+  background-color: #121619;
+  display: flex;
+
+align-items:center;
+justify-content:center;
+  flex-direction: column;
+  padding-top: 10px;
+   width:90%;
+    margin-right:5%;
+     margin-left:5%;
+}
+h3{color:white;margin-left:-50px}
+.logoimg{
+    height:30px;
+    width:30px;
+}
+.logo{justify-content:space-between;}
+.insta{
+ width: 45px;
+ height:45px;margin-bottom:-10px;
+}
+span  img{
+height:30px;
+    width:30px;
+}

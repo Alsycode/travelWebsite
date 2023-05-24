@@ -1,0 +1,36 @@
+.search{height:50vh;
+
+  width:90%;
+    margin-right:5%;
+     margin-left:5%;
+     background-repeat: no-repeat;
+      display: flex;
+  justify-content: center;
+  align-items: center;
+ text-align:center;
+ ;}
+   
+    form {background:white;
+    height:150px;
+    width:90%;margin-inline:auto;
+  display: flex;
+  flex-direction: row;
+  border-radius:30px;
+  
+  padding: 30px;
+}
+
+.book{background:teal;
+height:30px;
+width:100px;
+margin-top:-30px;border-radius:20px;border:none;}
+
+form input {
+  height: 40px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+}
+.Form{ justify-content: center;
+  align-items: center;display:grid;}
